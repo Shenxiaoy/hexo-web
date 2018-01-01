@@ -1,11 +1,7 @@
-ant-design/
-node_modules/
-npm-debug.log
-.vscode
-test/
-/npm-debug.log.*
-npm-debug.log
 .DS_Store
-.idea/
-.happypack/
-
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
